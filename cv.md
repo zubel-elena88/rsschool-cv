@@ -16,3 +16,20 @@ Marital status:married
 Educational institution "Grodno State College of Engineering, Technology and Design", 2008, speciality - Information technology software
 
 Yanka Kupala  State University of Grodno, 2013, specialty - Information technology software
+
+## Field of activity
+- information support of the website
+- network administration
+- maintenance of information systems
+- state procurements
+
+## Basic goals
+1. improving the level of knowledge
+2. broadening one's horizons
+3. change of field of activity
+4. increase in income
+
+
+>We ourselves do not know that we can ... 
+>we just need to forget the word "impossible". 
+>Vera Kamsha
