@@ -14,4 +14,5 @@ Marital status:married
 
 ## Education
 Educational institution "Grodno State College of Engineering, Technology and Design", 2008, speciality - Information technology software
+
 Yanka Kupala  State University of Grodno, 2013, specialty - Information technology software
