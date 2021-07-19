@@ -1,1 +1,1 @@
-https://zubel-elena88.github.io/rsschool-cv/cv
+https://zubel-elena88.github.io/rsschool-cv
