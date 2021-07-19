@@ -1,0 +1,55 @@
+.square {
+	margin-left: auto;
+    margin-right: auto;
+   	width: 690px;
+	height: 700px;
+	background-color:#f2e6e6;
+	padding: 20px 10px;
+	}
+	.image {
+	width: 20%;
+	height: 25%;
+	margin: 15px;
+float: left;
+	
+	}
+	.h1 {
+	font: italic bold 24px Arial sans-serif;
+	color: black;
+	margin: 20px;
+	text-align:left;
+		}
+	.kontakt{
+	margin-left: auto;
+    margin-right: auto;
+	width:300px;
+	font: 11px Arial sans-serif;
+	background-color:#f5dfdf;
+	padding: 20px 10px;
+	text-align:left;
+	}
+		.h2 {
+	font: bold 18px Arial sans-serif;
+	color: black;
+	margin:20px;
+	text-align:left;
+		}
+		
+	.h3 {
+	font: 15px Arial sans-serif;
+	color: black;
+	text-align:left;
+	}
+	.logo{
+	
+	width: 40px;
+	height: 40px;}
+	
+	.href{
+		font-size:10px;
+		color: black;
+	}
+.footer {
+	text-align:center;
+}
+	
